@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pistorigabriel
 - 👀 I’m interested in enhancing my knowledge in the field of computer science, by doing this I'm sure I'll be an essencial piece to improve the future of our society.
-- 🌱 I’m currently learning Python and all the basics in the world of programming.
+- 🌱 I’m currently programming/studying Python, Java, C, html, CSS and JS.
 - 💞️ I’m looking to collaborate on new projects, specially those focused on website development and big data analysis.
 - 📫 You can contact me through my email (gabrielspistori@gmail.com) or through my discord (Pistori#6975)
 
